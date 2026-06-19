@@ -1,2 +1,12 @@
-{name = happ; link = https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe; logo = https://play-lh.googleusercontent.com/dz5lnFqgq_K3ts3q2v47ynpTGwCPv7fceisG-_FUqatl19Vgejy-KFGlKwXfxETyAZrutA_wBYaQ-KNINodVqQ=w240-h480-rw;},
-{name = google chrome; link = https://www.softportal.com/getsoft-7868-google-chrome-3.html; logo = https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1280px-Google_Chrome_icon_%28February_2022%29.svg.png;}
+[
+  {
+    "name": "happ",
+    "link": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe",
+    "logo": "https://play-lh.googleusercontent.com/dz5lnFqgq_K3ts3q2v47ynpTGwCPv7fceisG-_FUqatl19Vgejy-KFGlKwXfxETyAZrutA_wBYaQ-KNINodVqQ=w240-h480-rw"
+  },
+  {
+    "name": "google chrome",
+    "link": "https://www.softportal.com/getsoft-7868-google-chrome-3.html",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1280px-Google_Chrome_icon_%28February_2022%29.svg.png"
+  }
+]
